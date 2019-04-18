@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+# ignore secret environment variable values
+.env
 
 # Distribution / packaging
 .Python
