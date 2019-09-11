@@ -17,3 +17,8 @@ Step 2: Save it as  .env  (Please name sure there is no file name before .env yo
 
 Step 3: keep it in the same directory as the program 
 
+# Stock Analysis of Similar Companies
+
+Use KNN Model for finding correlation between two companies.
+
+Plotting time series analysis and moving averages.
